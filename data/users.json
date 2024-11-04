@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Jaden",
+    "lastName": "Smith",
+    "email": "jadensmith@diddy.com",
+    "id": "9a76d094-d8f0-45ed-a02b-44e074182138"
+  },
+  {
+    "firstName": "Tommy",
+    "lastName": "Vercetti",
+    "email": "tommy@gtavc.com",
+    "id": "2002"
+  },
+  {
+    "firstName": "Carl",
+    "lastName": "Johnson",
+    "email": "cj2003@gtasa.com",
+    "id": "87bbe46f-0a94-4485-b16e-ca88e5c96ab8"
+  },
+  {
+    "firstName": "rupesh",
+    "lastName": "kumar",
+    "email": "rupeeshh@mtv.com",
+    "id": "dc44e91d-2ff5-4b44-93b1-dc8d2276b856"
+  }
+]

@@ -1,0 +1,34 @@
+GET http://localhost:5000/ HTTP/1.1
+
+###
+
+GET http://localhost:5000/users HTTP/1.1
+
+###
+
+POST http://localhost:5000/users HTTP/1.1
+content-type: application/json
+
+{
+    "firstName": "rupesh",
+    "lastName": "binod",
+    "email": "rupeeshh@mtv.com"
+}
+
+###
+
+GET http://localhost:5000/users/2002 HTTP/1.1
+
+###
+DELETE http://localhost:5000/users/42538f30-c2df-44ee-931c-25b141daf802 HTTP/1.1
+
+###
+
+PATCH  http://localhost:5000/users/dc44e91d-2ff5-4b44-93b1-dc8d2276b856 HTTP/1.1
+content-type: application/json
+
+{
+    
+    "lastName": "kumar"
+    
+}
